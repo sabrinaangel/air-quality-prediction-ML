@@ -77,8 +77,7 @@ air-quality-prediction-ML/
 │   ├── scaler.pkl                          # Scaler copy used by the deployed app
 │   └── updated_pollution_dataset.csv       # Dataset copy used by the deployed app
 ├── reports/
-│   └── final_report.pdf                    # Technical report (background, methodology, results, conclusion)
-├── requirements.txt                        # Project-level dependencies
+│   └── Laporan_UAS_AirQuality_15596.pdf                    # Technical report (background, methodology, results, conclusion)
 └── README.md
 └── .gitignore
 ```
