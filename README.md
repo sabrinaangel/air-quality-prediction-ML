@@ -80,6 +80,7 @@ air-quality-prediction-ML/
 │   └── final_report.pdf                    # Technical report (background, methodology, results, conclusion)
 ├── requirements.txt                        # Project-level dependencies
 └── README.md
+└── .gitignore
 ```
 
 > **Note:** The dataset and model files are duplicated inside `app/` because Streamlit Community Cloud runs the app with the repository root as its working directory. Keeping self-contained copies alongside `app.py` ensures the deployed app can always locate them regardless of execution context.
